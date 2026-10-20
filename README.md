@@ -1,4 +1,4 @@
-# Hello, my name is Sami
+# Hello, I'm Sami
 
 I am a Cloud-focused Systems Administrator securing and automating Azure infrastructure,
 working toward Cloud, DevOps and Platform engineering with a focus on the
@@ -13,4 +13,4 @@ Terraform, GitHub Actions (OIDC), Container Apps and least-privilege managed ide
 
 **Certs:** AZ-900 · working toward AZ-104
 
-If my work interests you then lets connect on [LinkedIn](www.linkedin.com/in/sami099) :) 
+If my work interests you then let's connect on [LinkedIn](www.linkedin.com/in/sami099) :) 
