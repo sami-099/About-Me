@@ -13,4 +13,4 @@ Terraform, GitHub Actions (OIDC), Container Apps and least-privilege managed ide
 
 **Certs:** AZ-900 · working toward AZ-104
 
-If my work interests you then let's connect on [LinkedIn](www.linkedin.com/in/sami099) :) 
+If my work interests you then let's connect on [LinkedIn](https://www.linkedin.com/in/sami099) :) 
