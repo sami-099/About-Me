@@ -8,6 +8,7 @@ infrastructure AI agents run on.
 Terraform, GitHub Actions (OIDC), Container Apps and least-privilege managed identity. -->
 
 **Day to day:** Azure · Entra ID · IAM · Linux · PowerShell 
+
 **Learning & building with:** AWS · Terraform · GitHub Actions · Docker · Kubernetes
 
 **Certs:** AZ-900 · working toward AZ-104
